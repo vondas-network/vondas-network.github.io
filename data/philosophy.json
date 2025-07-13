@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "recycling",
+    "title": "Repurpose Waste",
+    "description": "We take what's been thrown out — old tools, broken code, abandoned ideas — and we turn it into something stronger."
+  },
+  {
+    "icon": "lock",
+    "title": "No Loose Ends",
+    "description": "Security isn’t a feature — it’s the foundation. If it leaks, it’s broken."
+  },
+  {
+    "icon": "science",
+    "title": "Stay Experimental",
+    "description": "Curiosity fuels our process. We’re not afraid to try, fail, remix, or prototype things that don’t yet have a name."
+  },
+  {
+    "icon": "handyman",
+    "title": "Respect the Craft",
+    "description": "Engineering is creative work. Our tools are art, architecture, and artifact — and we treat them as such."
+  }
+]

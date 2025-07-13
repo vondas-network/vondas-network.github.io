@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Videobeaux",
+    "description": "Experimental visual toolkit for motion graphics, video textures, and algorithmic design.",
+    "image": "images/videobeaux.jpg"
+  },
+  {
+    "title": "Viewfinder",
+    "description": "One API for most EVM blockchain explorers & their clones. Unified queries, simplified calls.",
+    "image": "images/viewfinder.jpg"
+  },
+  {
+    "title": "Api-gateway",
+    "description": "Pre-built, scalable API gateway template — hardened, performant, deploy-ready.",
+    "image": "images/api-gateway.jpg"
+  },
+  {
+    "title": "Scoping-voices",
+    "description": "Audio toolkit for live feedback routing, reactive sound design, and creative signal sculpting.",
+    "image": "images/scoping-voices.jpg"
+  }
+]

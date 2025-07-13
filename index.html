@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vondas Software</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+
+</head>
+<body>
+  <header>
+    <div class="container nav-container">
+      <h1 class="logo">Vondas Software</h1>
+  
+      <!-- GitHub + Hamburger Container -->
+      <div class="nav-actions">
+        <a href="https://github.com/vondas-network" class="github-btn shimmer" target="_blank">GitHub</a>
+        <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+  
+      <!-- Navigation Links -->
+      <nav class="nav-links" id="navLinks">
+        <a href="#about">About</a>
+        <a href="#philosophy">Philosophy</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero" data-animate="fade-in">
+    <div class="hero-bg"></div>
+    <div class="container hero-content">
+      <h1>Creative Infrastructure</h1>
+      <h3>for a Fractured Web</h3>
+      <p>Software tools and resources for developers, artists, and humans.</p>
+      <a href="#projects" class="cta-btn">Explore Our Work</a>
+    </div>
+  </section>
+
+  <section id="about" class="about" data-animate="fade-up">
+    <div class="container">
+      <h3>About Us</h3>
+      <p>
+        Founded in 2020 during a surge of experimentation, Vondas Software began with a simple observation: the internet was littered with forgotten, broken, or half-finished tools — many of which held immense untapped potential. We started stitching them together. What began as a reactive project turned into a creative mission.
+      </p>
+      <p>
+        Today, Vondas is a research-driven software company built at the intersection of cybersecurity, developer tooling, artistic technology, and rapid prototyping.
+      </p>
+      <p>
+        Our core team brings deep experience across telecom, videography, cybersecurity, sound design, prototyping, systems design, electromechanical engineering, and full-stack development. We've built APIs, founded startups, secured networks, prototyped strange interfaces, and shipped tools that make complex tech feel simple, honest, and human.
+      </p>
+      <p>
+        We are not a typical firm. We're the pinch hitters. The closers. The people you call when you've run out of runway, time, or perspective.<br><strong>Vondas. It’s in our name.</strong>
+      </p>
+    </div>
+  </section>
+
+  <section id="philosophy" class="values" data-animate="fade-up">
+    <div class="container">
+      <h3>Philosophy</h3>
+      <div class="philosophy-list">
+        <ul class="value-list">
+            <li>
+              <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <span class="material-icons-outlined">recycling</span>
+                  Repurpose Waste
+                </div>
+                <div class="flip-card-back">
+                  We take what's been thrown out — old tools, broken code, abandoned ideas — and we turn it into something stronger.
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <span class="material-icons-outlined">lock</span>
+                  No Loose Ends
+                </div>
+                <div class="flip-card-back">
+                  Security isn’t a feature — it’s the foundation. If it leaks, it’s broken.
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <span class="material-icons-outlined">science</span>
+                  Stay Experimental
+                </div>
+                <div class="flip-card-back">
+                  Curiosity fuels our process. We’re not afraid to try, fail, remix, or prototype things that don’t yet have a name.
+                </div>
+              </div>
+            </li>
+            <li>
+              <div class="flip-card-inner">
+                <div class="flip-card-front">
+                    <span class="material-icons-outlined">handyman</span>
+
+                  Respect the Craft
+                </div>
+                <div class="flip-card-back">
+                  Engineering is creative work. Our tools are art, architecture, and artifact — and we treat them as such.
+                </div>
+              </div>
+            </li>
+          </ul>
+      </div>
+    </div>
+  </section>
+  
+
+  <section id="projects" class="projects" data-animate="fade-up">
+    <div class="container">
+      <h3>Projects & Services</h3>
+      <div class="project-gallery">
+
+        <div class="project-card">
+          <a class='projCardText' href="https://github.com/vondas-network/videobeaux" target="_blank">
+            <h4>Videobeaux</h4>
+            <p>Experimental visual toolkit for motion graphics, video textures, and algorithmic design.</p>
+            <br>
+            <img src="img/videobeaux-1.png"/>
+          </a>
+        </div>
+      
+        <div class="project-card">
+          <a class='projCardText' href="https://github.com/vondas-network/viewfinder" target="_blank">
+            <h4>Viewfinder</h4>
+            <p>One API for most EVM blockchain explorers & their clones. Unified queries, simplified calls.</p>
+            <br>
+            <img src="img/viewfinder.png" />
+          </a>
+        </div>
+
+        <div class="project-card">
+          <a class='projCardText' href="#" target="_blank">
+            <h4>API Solutions</h4>
+            <p>Pre-built, scalable microservice API architecture — hardened, performant, deploy-ready.</p>
+            <br>
+            <img src="img/software-1.jpg" />
+          </a>
+        </div>
+        
+        <div class="project-card">
+          <a class='projCardText' href="https://github.com/vondas-network/videobeaux" target="_blank">
+            <h4>ScopingVoices</h4>
+            <p>Audio toolkit for location based live feedback routing via Periscope for reactive sound design and creative signal sculpting.</p>
+            <br>
+            <img src="img/periscope-1.jpg"/>
+          </a>
+        </div>
+
+        <div class="project-card">
+          <a class='projCardText' href="https://github.com/vondas-network/videobeaux" target="_blank">
+            <h4>Kowabungataug</h4>
+            <p>Codename for an upcoming anti-spam voice system. Sign up for our newsletter to stay in the loop.</p>
+            <br>
+            <img src="img/telephone-1.jpg" />
+          </a>
+        </div>
+
+        <div class="project-card">
+          <a class='projCardText' href="https://www.youtube.com/playlist?list=PLmyETqg8KgDc4DyJ16i8AcYym0HFXKUc8" target="_blank">
+            <h4>Illogica Factory</h4>
+            <p>Automated AI cannibalism lab. Iterative model looping and feedback distortion as art + infrastructure.</p>
+            <br>
+            <img src="img/illogica.png" />
+          </a>
+        </div>
+
+        <div class="project-card">
+          <a class='projCardText' href="https://github.com/vondas-network/ordvault" target="_blank">
+            <h4>Ordvault</h4>
+            <p>Software libraries hosted fully on-chain via Bitcoin. Storage, recall, persistence.</p>
+            <br>
+            <img src="img/bitcoin-1.jpg" />
+          </a>
+        </div>
+
+        <div class="project-card">
+          <a class='projCardText' href="https://webglo.btc.us" target="_blank">
+            <h4>Webglo</h4>
+            <p>Decentralized video art platform for Bitcoin. Looping performance meets immutable storage.</p>
+            <br>
+            <img src="img/webglo.png" />
+          </a>
+        </div>
+
+        <div class="project-card">
+          <a class='projCardText' href="#">
+            <h4>Consulting Services</h4>
+            <p>Tap into our decades of experience spanning dozens of industries. We are here for you - put us in coach!</p>
+            <br>
+            <img src="img/consult-1.jpg" />
+          </a>
+        </div>
+
+      </div>
+      <div class="github-cta">
+        <a href="https://github.com/vondas-network" target="_blank">Explore More on GitHub →</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact" class="contact" data-animate="fade-up">
+    <div class="container">
+      <h3>Contact Us</h3>
+      <p>Email us at <a href="mailto:contact@vondas.software">contact@vondas.software</a></p>
+      <br>
+      <br>
+      <h3>Sign Up For Our Newsletter</h3>
+      <form
+        action="https://docs.google.com/forms/d/e/1FAIpQLSegNWfQCZXJjNP3nU0u39pCqwQGZO_LvMXYqP14cWeOV457uQ/formResponse"
+        method="POST"
+        target="hidden_iframe"
+        onsubmit="submitted=true;"
+        class="space-y-4 max-w-md"
+      >
+        <div>
+          <label class="block text-sm font-medium">Name</label>
+          <input name="entry.123456" type="text" required class="" />
+        </div>
+        <div>
+          <label class="block text-sm font-medium">E-Mail</label>
+          <input name="entry.654321" type="email" required class="" />
+        </div>
+        <br>
+        <button type="submit" class="cta-btn">
+          Subscribe
+        </button>
+      </form>
+      <iframe name="hidden_iframe" style="display:none;"></iframe>
+            
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Vondas Software</p>
+      <p>🦅</p>
+      <p>A Proud American Company.</p>
+      <p>All rights reserved.</p>
+    </div>
+  </footer>
+
+  <!--<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>-->
+  <script src="js/script.js"></script>
+  <!--<script src="https://ajuunes.github.io/vondas-site/js/script.js"></script>-->
+</body>
+</html>
