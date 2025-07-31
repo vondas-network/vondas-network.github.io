@@ -1,22 +1,26 @@
-[
-  {
-    "title": "Videobeaux",
-    "description": "Experimental visual toolkit for motion graphics, video textures, and algorithmic design.",
-    "image": "images/videobeaux.jpg"
-  },
-  {
-    "title": "Viewfinder",
-    "description": "One API for most EVM blockchain explorers & their clones. Unified queries, simplified calls.",
-    "image": "images/viewfinder.jpg"
-  },
-  {
-    "title": "Api-gateway",
-    "description": "Pre-built, scalable API gateway template — hardened, performant, deploy-ready.",
-    "image": "images/api-gateway.jpg"
-  },
-  {
-    "title": "Scoping-voices",
-    "description": "Audio toolkit for live feedback routing, reactive sound design, and creative signal sculpting.",
-    "image": "images/scoping-voices.jpg"
-  }
+[{
+        "title": "Videobeaux",
+        "description": "The friendly multilateral video toolkit built for artists by artists.",
+        "image": "images/videobeaux.jpg"
+    },
+    {
+        "title": "drop-zone-ops",
+        "description": "Taking broadcast automation to new heights!",
+        "image": "https://github.com/vondas-network/drop-zone-ops/blob/main/drop-zone-ops.png?raw=true"
+    },
+    {
+        "title": "webglo",
+        "description": "Decentralized video art on the Bitcoin blockchain",
+        "image": "https://github.com/cskonopka/WebGL-Ordinals/raw/main/webglo.png?raw=true"
+    },
+    {
+        "title": "MagicEdenJS",
+        "description": "An API service for sourcing Rare Sats and Bitcoin Ordinal listing data from Magic Eden.",
+        "image": "https://github.com/vondas-network/MagicEdenJS/raw/main/img/MagicEdenJS-logo-1.png?raw=true"
+    },
+    {
+        "title": "ordvault",
+        "description": "https://camo.githubusercontent.com/be65e4cfddd7c5d7699d64b36a29f98d64cc8fa2138bbe23a826df1d762a8124/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f626974636f696e2d6c6f676f2d706e672d7472616e73706172656e742e706e67",
+        "image": "images/scoping-voices.jpg"
+    }
 ]

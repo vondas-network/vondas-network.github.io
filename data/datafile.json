@@ -1,0 +1,113 @@
+[{
+        "title": "drop-zone-ops",
+        "tagline": "Taking broadcast automation to new heights!",
+        "link": "https://github.com/vondas-network/drop-zone-ops",
+        "tag": "code",
+        "year": 2024.0,
+        "image": "https://github.com/vondas-network/drop-zone-ops/blob/main/drop-zone-ops-small.png?raw=true"
+    },
+    {
+        "title": "videobeaux",
+        "tagline": "The friendly multilateral video toolkit built for artists by artists",
+        "link": "https://github.com/vondas-network/videobeaux/tree/main",
+        "tag": "code",
+        "year": 2024.0,
+        "image": "https://github.com/vondas-network/videobeaux/raw/main/img/videobeaux-1.png?raw=true"
+    },
+    {
+        "title": "webglo",
+        "tagline": "decentralized video art on the Bitcoin blockchain",
+        "link": "https://vondas-network.github.io/webglo/",
+        "tag": "art",
+        "year": 2024.0,
+        "image": "https://github.com/cskonopka/WebGL-Ordinals/raw/main/webglo.png?raw=true"
+    },
+    {
+        "title": "illogica factory",
+        "tagline": "automated A.I. cannibalism",
+        "link": "https://www.youtube.com/playlist?list=PLmyETqg8KgDc4DyJ16i8AcYym0HFXKUc8",
+        "tag": "code",
+        "year": 2024.0,
+        "image": "https://github.com/vondas-network/illogica-factory/raw/main/img/illogica-factory-logo.png"
+    },
+    {
+        "title": "ordvault",
+        "tagline": "A collection of software libraries hosted on-chain via Bitcoin",
+        "link": "https://github.com/vondas-network/ordvault",
+        "tag": "code",
+        "year": 2024.0,
+        "image": "https://camo.githubusercontent.com/be65e4cfddd7c5d7699d64b36a29f98d64cc8fa2138bbe23a826df1d762a8124/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f626974636f696e2d6c6f676f2d706e672d7472616e73706172656e742e706e67"
+    },
+    {
+        "title": "cardquest.zone",
+        "tagline": "Pokemon price tracking for chase cards",
+        "link": "https://cardquest.zone/",
+        "tag": "code",
+        "year": 2024.0,
+        "image": "https://cardquest.zone/img/CardQuestZone-banner.gif"
+    },
+    {
+        "title": "MagicEdenJS",
+        "tagline": "An API service for sourcing Rare Sats and Bitcoin Ordinal listing data from Magic Eden",
+        "link": "https://github.com/vondas-network/MagicEdenJS/tree/main",
+        "tag": "code",
+        "year": 2024.0,
+        "image": "https://github.com/vondas-network/MagicEdenJS/raw/main/img/MagicEdenJS-logo-1.png?raw=true"
+    },
+    {
+        "title": "dexscreenerJS",
+        "tagline": "An API for dexscreener.com pair data",
+        "link": "https://github.com/vondas-network/dexscreenerJS",
+        "tag": "code",
+        "year": 2024.0,
+        "image": "https://github.com/vondas-network/dexscreenerJS/raw/main/img/dexscreenerjs-logo.png?raw=true"
+    },
+    {
+        "title": "btc-axios",
+        "tagline": "A website that executes a HTTP GET request Axios hosted on the Bitcoin blockchain using the Ordinal protocol",
+        "link": "https://github.com/vondas-network/btc-axios",
+        "tag": "code",
+        "year": 2023.0,
+        "image": "https://github.com/vondas-network/btc-axios/raw/main/img/btcaxios-logo.png?raw=true"
+    },
+    {
+        "title": "coinglass-node-api",
+        "tagline": "Unofficial Coinglass API for Node.js",
+        "link": "https://github.com/vondas-network/coinglass-node-api",
+        "tag": "Code",
+        "year": 2023.0,
+        "image": "https://github.com/vondas-network/coinglass-node-api/blob/main/img/coinglass-logo.png?raw=true"
+    },
+    {
+        "title": "ohta",
+        "tagline": "A microservice logging library inspired by Ohta and Fukuisan banter from Iron Chef Japan",
+        "link": "https://github.com/vondas-network/ohta",
+        "tag": "code",
+        "year": 2023.0,
+        "image": "https://github.com/vondas-network/ohta/blob/main/img/ohta-logo.png?raw=true"
+    },
+    {
+        "title": "dexra",
+        "tagline": "Web3 CLI tool for tracking the exchange rate of 2 cryptocurrencies on Polygon",
+        "link": "https://github.com/cskonopka/dexra",
+        "tag": "code",
+        "year": 2021.0,
+        "image": "https://github.com/cskonopka/dexra/raw/master/img/dexra-logo.png?raw=true"
+    },
+    {
+        "title": "viewfinder",
+        "tagline": "A single API for most EVM blockchains",
+        "link": "https://github.com/vondas-network/viewfinder",
+        "tag": "code",
+        "year": 2021.0,
+        "image": "https://github.com/vondas-network/viewfinder/blob/main/img/viewfinder-logo.png?raw=true"
+    },
+    {
+        "title": "scopingVoices",
+        "tagline": "Creative tool for extracting audio and video content from the Periscope using Go, FFmpeg and Twitter",
+        "link": "https://github.com/cskonopka/scopingVoices",
+        "tag": "code",
+        "year": 2019.0,
+        "image": "https://github.com/cskonopka/scopingVoices/raw/master/img/scopingVoices-logo.png?raw=true"
+    }
+]
